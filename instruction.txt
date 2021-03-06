@@ -1,0 +1,2 @@
+Instruction to Execute
+.copy the code and then paste it to online gdb compiler then run the code
